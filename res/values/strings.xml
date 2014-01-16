@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Handy Tip Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="About">About</string>
+    
+    <string name="enter_total_price">Enter Total Price: </string>
+    <string name="edit_message">Total Price</string>
+    <string name="enter_percentage">Enter Percentage: </string>
+    <string name="enter_split">Divide Tip: </string>
+    <string name="button_send">Calculate</string>
+    <string name="calculate_button">calcButton</string>
+    <string-array name="splitBy">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+    <string-array name="percentage">
+        <item>0 %</item>
+        <item>5 %</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>16%</item>
+        <item>18%</item>
+        <item>20%</item>
+        <item>25%</item>
+        <item>30%</item>
+    </string-array>
+
+</resources>
